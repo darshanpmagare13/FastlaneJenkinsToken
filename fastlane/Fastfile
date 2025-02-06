@@ -24,9 +24,10 @@ platform :ios do
       configuration: "Release",
       clean: true,
       export_method: "app-store",
-      output_directory: "/Users/ft42/Documents/Demo Projects",  # ✅ Ensure this path is correct
-      output_name: "FastlaneJenkinsTest.ipa"  # ✅ The expected IPA filename
+      output_directory: "/Users/ft42/Documents/Demo Projects/FastlaneJenkins",  # ✅ Update with new project path
+      output_name: "FastlaneJenkins.ipa"  # ✅ Corrected IPA file name
     )
   end
 end
+
 
