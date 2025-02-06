@@ -15,16 +15,21 @@
 
 default_platform(:ios)
 
+default_platform(:ios)
+
 platform :ios do
   desc "Builds the iOS app"
   lane :build_app do
-    gym(                      # gym is the built-in tool for building iOS apps
-      workspace: "FastlaneJenkinsTest.xcworkspace",  # Replace with your workspace name
-      scheme: "FastlaneJenkinsTest",      # Replace with your scheme name
-      configuration: "Release", # Use "Debug" if needed
-      clean: true,            # Cleans the build folder before building
-      export_method: "app-store" # Change to "ad-hoc" or "development" if needed
+    gym(                      
+      workspace: "FastlaneJenkinsTest.xcworkspace",
+      scheme: "FastlaneJenkinsTest",
+      configuration: "Release",
+      clean: true,
+      export_method: "app-store",
+      output_directory: "/Users/ft42/Documents/Demo Projects",  # ✅ Custom output path
+      output_name: "FastlaneJenkinsTest.ipa"  # ✅ Custom IPA file name
     )
   end
 end
+
 
