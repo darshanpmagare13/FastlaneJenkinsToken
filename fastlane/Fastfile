@@ -19,8 +19,8 @@ platform :ios do
   desc "Builds the iOS app and exports IPA"
   lane :build_app do
     gym(                      
-      workspace: "FastlaneJenkinsTest.xcworkspace",
-      scheme: "FastlaneJenkinsTest",
+      workspace: "FastlaneJenkins.xcworkspace",
+      scheme: "FastlaneJenkins",
       configuration: "Release",
       clean: true,
       export_method: "app-store",
