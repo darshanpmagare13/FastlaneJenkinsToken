@@ -1,13 +1,13 @@
 //
-//  FastlaneJenkinsTestUITestsLaunchTests.swift
-//  FastlaneJenkinsTestUITests
+//  FastlaneJenkinsUITestsLaunchTests.swift
+//  FastlaneJenkinsUITests
 //
 //  Created by ft42 on 06/02/25.
 //
 
 import XCTest
 
-final class FastlaneJenkinsTestUITestsLaunchTests: XCTestCase {
+final class FastlaneJenkinsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

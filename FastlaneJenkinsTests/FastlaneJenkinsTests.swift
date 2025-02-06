@@ -1,14 +1,14 @@
 //
-//  FastlaneJenkinsTestTests.swift
-//  FastlaneJenkinsTestTests
+//  FastlaneJenkinsTests.swift
+//  FastlaneJenkinsTests
 //
 //  Created by ft42 on 06/02/25.
 //
 
 import XCTest
-@testable import FastlaneJenkinsTest
+@testable import FastlaneJenkins
 
-final class FastlaneJenkinsTestTests: XCTestCase {
+final class FastlaneJenkinsTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

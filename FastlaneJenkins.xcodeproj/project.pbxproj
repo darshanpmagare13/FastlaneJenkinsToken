@@ -7,75 +7,75 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		11D1126D2D54842D00A1E873 /* PBXContainerItemProxy */ = {
+		11AFCFD02D5492F200C32454 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 11D1124E2D54842C00A1E873 /* Project object */;
+			containerPortal = 11AFCFB12D5492F100C32454 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 11D112552D54842C00A1E873;
-			remoteInfo = FastlaneJenkinsTest;
+			remoteGlobalIDString = 11AFCFB82D5492F100C32454;
+			remoteInfo = FastlaneJenkins;
 		};
-		11D112772D54842D00A1E873 /* PBXContainerItemProxy */ = {
+		11AFCFDA2D5492F200C32454 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 11D1124E2D54842C00A1E873 /* Project object */;
+			containerPortal = 11AFCFB12D5492F100C32454 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 11D112552D54842C00A1E873;
-			remoteInfo = FastlaneJenkinsTest;
+			remoteGlobalIDString = 11AFCFB82D5492F100C32454;
+			remoteInfo = FastlaneJenkins;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		11D112562D54842C00A1E873 /* FastlaneJenkinsTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FastlaneJenkinsTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		11D1126C2D54842D00A1E873 /* FastlaneJenkinsTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastlaneJenkinsTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		11D112762D54842D00A1E873 /* FastlaneJenkinsTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastlaneJenkinsTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		11AFCFB92D5492F100C32454 /* FastlaneJenkins.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FastlaneJenkins.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11AFCFCF2D5492F200C32454 /* FastlaneJenkinsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastlaneJenkinsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		11AFCFD92D5492F200C32454 /* FastlaneJenkinsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastlaneJenkinsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		11D1127E2D54842D00A1E873 /* Exceptions for "FastlaneJenkinsTest" folder in "FastlaneJenkinsTest" target */ = {
+		11AFCFE12D5492F200C32454 /* Exceptions for "FastlaneJenkins" folder in "FastlaneJenkins" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 11D112552D54842C00A1E873 /* FastlaneJenkinsTest */;
+			target = 11AFCFB82D5492F100C32454 /* FastlaneJenkins */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		11D112582D54842C00A1E873 /* FastlaneJenkinsTest */ = {
+		11AFCFBB2D5492F100C32454 /* FastlaneJenkins */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				11D1127E2D54842D00A1E873 /* Exceptions for "FastlaneJenkinsTest" folder in "FastlaneJenkinsTest" target */,
+				11AFCFE12D5492F200C32454 /* Exceptions for "FastlaneJenkins" folder in "FastlaneJenkins" target */,
 			);
-			path = FastlaneJenkinsTest;
+			path = FastlaneJenkins;
 			sourceTree = "<group>";
 		};
-		11D1126F2D54842D00A1E873 /* FastlaneJenkinsTestTests */ = {
+		11AFCFD22D5492F200C32454 /* FastlaneJenkinsTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = FastlaneJenkinsTestTests;
+			path = FastlaneJenkinsTests;
 			sourceTree = "<group>";
 		};
-		11D112792D54842D00A1E873 /* FastlaneJenkinsTestUITests */ = {
+		11AFCFDC2D5492F200C32454 /* FastlaneJenkinsUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = FastlaneJenkinsTestUITests;
+			path = FastlaneJenkinsUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		11D112532D54842C00A1E873 /* Frameworks */ = {
+		11AFCFB62D5492F100C32454 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		11D112692D54842D00A1E873 /* Frameworks */ = {
+		11AFCFCC2D5492F200C32454 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		11D112732D54842D00A1E873 /* Frameworks */ = {
+		11AFCFD62D5492F200C32454 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		11D1124D2D54842C00A1E873 = {
+		11AFCFB02D5492F100C32454 = {
 			isa = PBXGroup;
 			children = (
-				11D112582D54842C00A1E873 /* FastlaneJenkinsTest */,
-				11D1126F2D54842D00A1E873 /* FastlaneJenkinsTestTests */,
-				11D112792D54842D00A1E873 /* FastlaneJenkinsTestUITests */,
-				11D112572D54842C00A1E873 /* Products */,
+				11AFCFBB2D5492F100C32454 /* FastlaneJenkins */,
+				11AFCFD22D5492F200C32454 /* FastlaneJenkinsTests */,
+				11AFCFDC2D5492F200C32454 /* FastlaneJenkinsUITests */,
+				11AFCFBA2D5492F100C32454 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		11D112572D54842C00A1E873 /* Products */ = {
+		11AFCFBA2D5492F100C32454 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				11D112562D54842C00A1E873 /* FastlaneJenkinsTest.app */,
-				11D1126C2D54842D00A1E873 /* FastlaneJenkinsTestTests.xctest */,
-				11D112762D54842D00A1E873 /* FastlaneJenkinsTestUITests.xctest */,
+				11AFCFB92D5492F100C32454 /* FastlaneJenkins.app */,
+				11AFCFCF2D5492F200C32454 /* FastlaneJenkinsTests.xctest */,
+				11AFCFD92D5492F200C32454 /* FastlaneJenkinsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		11D112552D54842C00A1E873 /* FastlaneJenkinsTest */ = {
+		11AFCFB82D5492F100C32454 /* FastlaneJenkins */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 11D1127F2D54842D00A1E873 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsTest" */;
+			buildConfigurationList = 11AFCFE22D5492F200C32454 /* Build configuration list for PBXNativeTarget "FastlaneJenkins" */;
 			buildPhases = (
-				11D112522D54842C00A1E873 /* Sources */,
-				11D112532D54842C00A1E873 /* Frameworks */,
-				11D112542D54842C00A1E873 /* Resources */,
+				11AFCFB52D5492F100C32454 /* Sources */,
+				11AFCFB62D5492F100C32454 /* Frameworks */,
+				11AFCFB72D5492F100C32454 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				11D112582D54842C00A1E873 /* FastlaneJenkinsTest */,
+				11AFCFBB2D5492F100C32454 /* FastlaneJenkins */,
 			);
-			name = FastlaneJenkinsTest;
+			name = FastlaneJenkins;
 			packageProductDependencies = (
 			);
-			productName = FastlaneJenkinsTest;
-			productReference = 11D112562D54842C00A1E873 /* FastlaneJenkinsTest.app */;
+			productName = FastlaneJenkins;
+			productReference = 11AFCFB92D5492F100C32454 /* FastlaneJenkins.app */;
 			productType = "com.apple.product-type.application";
 		};
-		11D1126B2D54842D00A1E873 /* FastlaneJenkinsTestTests */ = {
+		11AFCFCE2D5492F200C32454 /* FastlaneJenkinsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 11D112842D54842D00A1E873 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsTestTests" */;
+			buildConfigurationList = 11AFCFE72D5492F200C32454 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsTests" */;
 			buildPhases = (
-				11D112682D54842D00A1E873 /* Sources */,
-				11D112692D54842D00A1E873 /* Frameworks */,
-				11D1126A2D54842D00A1E873 /* Resources */,
+				11AFCFCB2D5492F200C32454 /* Sources */,
+				11AFCFCC2D5492F200C32454 /* Frameworks */,
+				11AFCFCD2D5492F200C32454 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				11D1126E2D54842D00A1E873 /* PBXTargetDependency */,
+				11AFCFD12D5492F200C32454 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				11D1126F2D54842D00A1E873 /* FastlaneJenkinsTestTests */,
+				11AFCFD22D5492F200C32454 /* FastlaneJenkinsTests */,
 			);
-			name = FastlaneJenkinsTestTests;
+			name = FastlaneJenkinsTests;
 			packageProductDependencies = (
 			);
-			productName = FastlaneJenkinsTestTests;
-			productReference = 11D1126C2D54842D00A1E873 /* FastlaneJenkinsTestTests.xctest */;
+			productName = FastlaneJenkinsTests;
+			productReference = 11AFCFCF2D5492F200C32454 /* FastlaneJenkinsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		11D112752D54842D00A1E873 /* FastlaneJenkinsTestUITests */ = {
+		11AFCFD82D5492F200C32454 /* FastlaneJenkinsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 11D112872D54842D00A1E873 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsTestUITests" */;
+			buildConfigurationList = 11AFCFEA2D5492F200C32454 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsUITests" */;
 			buildPhases = (
-				11D112722D54842D00A1E873 /* Sources */,
-				11D112732D54842D00A1E873 /* Frameworks */,
-				11D112742D54842D00A1E873 /* Resources */,
+				11AFCFD52D5492F200C32454 /* Sources */,
+				11AFCFD62D5492F200C32454 /* Frameworks */,
+				11AFCFD72D5492F200C32454 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				11D112782D54842D00A1E873 /* PBXTargetDependency */,
+				11AFCFDB2D5492F200C32454 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				11D112792D54842D00A1E873 /* FastlaneJenkinsTestUITests */,
+				11AFCFDC2D5492F200C32454 /* FastlaneJenkinsUITests */,
 			);
-			name = FastlaneJenkinsTestUITests;
+			name = FastlaneJenkinsUITests;
 			packageProductDependencies = (
 			);
-			productName = FastlaneJenkinsTestUITests;
-			productReference = 11D112762D54842D00A1E873 /* FastlaneJenkinsTestUITests.xctest */;
+			productName = FastlaneJenkinsUITests;
+			productReference = 11AFCFD92D5492F200C32454 /* FastlaneJenkinsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		11D1124E2D54842C00A1E873 /* Project object */ = {
+		11AFCFB12D5492F100C32454 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					11D112552D54842C00A1E873 = {
+					11AFCFB82D5492F100C32454 = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					11D1126B2D54842D00A1E873 = {
+					11AFCFCE2D5492F200C32454 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 11D112552D54842C00A1E873;
+						TestTargetID = 11AFCFB82D5492F100C32454;
 					};
-					11D112752D54842D00A1E873 = {
+					11AFCFD82D5492F200C32454 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 11D112552D54842C00A1E873;
+						TestTargetID = 11AFCFB82D5492F100C32454;
 					};
 				};
 			};
-			buildConfigurationList = 11D112512D54842C00A1E873 /* Build configuration list for PBXProject "FastlaneJenkinsTest" */;
+			buildConfigurationList = 11AFCFB42D5492F100C32454 /* Build configuration list for PBXProject "FastlaneJenkins" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 11D1124D2D54842C00A1E873;
+			mainGroup = 11AFCFB02D5492F100C32454;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 11D112572D54842C00A1E873 /* Products */;
+			productRefGroup = 11AFCFBA2D5492F100C32454 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				11D112552D54842C00A1E873 /* FastlaneJenkinsTest */,
-				11D1126B2D54842D00A1E873 /* FastlaneJenkinsTestTests */,
-				11D112752D54842D00A1E873 /* FastlaneJenkinsTestUITests */,
+				11AFCFB82D5492F100C32454 /* FastlaneJenkins */,
+				11AFCFCE2D5492F200C32454 /* FastlaneJenkinsTests */,
+				11AFCFD82D5492F200C32454 /* FastlaneJenkinsUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		11D112542D54842C00A1E873 /* Resources */ = {
+		11AFCFB72D5492F100C32454 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		11D1126A2D54842D00A1E873 /* Resources */ = {
+		11AFCFCD2D5492F200C32454 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		11D112742D54842D00A1E873 /* Resources */ = {
+		11AFCFD72D5492F200C32454 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		11D112522D54842C00A1E873 /* Sources */ = {
+		11AFCFB52D5492F100C32454 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		11D112682D54842D00A1E873 /* Sources */ = {
+		11AFCFCB2D5492F200C32454 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		11D112722D54842D00A1E873 /* Sources */ = {
+		11AFCFD52D5492F200C32454 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,20 +269,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		11D1126E2D54842D00A1E873 /* PBXTargetDependency */ = {
+		11AFCFD12D5492F200C32454 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 11D112552D54842C00A1E873 /* FastlaneJenkinsTest */;
-			targetProxy = 11D1126D2D54842D00A1E873 /* PBXContainerItemProxy */;
+			target = 11AFCFB82D5492F100C32454 /* FastlaneJenkins */;
+			targetProxy = 11AFCFD02D5492F200C32454 /* PBXContainerItemProxy */;
 		};
-		11D112782D54842D00A1E873 /* PBXTargetDependency */ = {
+		11AFCFDB2D5492F200C32454 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 11D112552D54842C00A1E873 /* FastlaneJenkinsTest */;
-			targetProxy = 11D112772D54842D00A1E873 /* PBXContainerItemProxy */;
+			target = 11AFCFB82D5492F100C32454 /* FastlaneJenkins */;
+			targetProxy = 11AFCFDA2D5492F200C32454 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		11D112802D54842D00A1E873 /* Debug */ = {
+		11AFCFE32D5492F200C32454 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -291,7 +291,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = L63F7HLTNK;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FastlaneJenkinsTest/Info.plist;
+				INFOPLIST_FILE = FastlaneJenkins/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -302,7 +302,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -310,7 +310,7 @@
 			};
 			name = Debug;
 		};
-		11D112812D54842D00A1E873 /* Release */ = {
+		11AFCFE42D5492F200C32454 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -319,7 +319,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = L63F7HLTNK;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FastlaneJenkinsTest/Info.plist;
+				INFOPLIST_FILE = FastlaneJenkins/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -330,7 +330,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -338,7 +338,7 @@
 			};
 			name = Release;
 		};
-		11D112822D54842D00A1E873 /* Debug */ = {
+		11AFCFE52D5492F200C32454 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -401,7 +401,7 @@
 			};
 			name = Debug;
 		};
-		11D112832D54842D00A1E873 /* Release */ = {
+		11AFCFE62D5492F200C32454 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -457,7 +457,7 @@
 			};
 			name = Release;
 		};
-		11D112852D54842D00A1E873 /* Debug */ = {
+		11AFCFE82D5492F200C32454 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -467,16 +467,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsTestTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FastlaneJenkinsTest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FastlaneJenkinsTest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FastlaneJenkins.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FastlaneJenkins";
 			};
 			name = Debug;
 		};
-		11D112862D54842D00A1E873 /* Release */ = {
+		11AFCFE92D5492F200C32454 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -486,16 +486,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsTestTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FastlaneJenkinsTest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FastlaneJenkinsTest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FastlaneJenkins.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FastlaneJenkins";
 			};
 			name = Release;
 		};
-		11D112882D54842D00A1E873 /* Debug */ = {
+		11AFCFEB2D5492F200C32454 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -503,16 +503,16 @@
 				DEVELOPMENT_TEAM = L63F7HLTNK;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsTestUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = FastlaneJenkinsTest;
+				TEST_TARGET_NAME = FastlaneJenkins;
 			};
 			name = Debug;
 		};
-		11D112892D54842D00A1E873 /* Release */ = {
+		11AFCFEC2D5492F200C32454 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -520,55 +520,55 @@
 				DEVELOPMENT_TEAM = L63F7HLTNK;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsTestUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.DemoTBLView.FastlaneJenkinsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = FastlaneJenkinsTest;
+				TEST_TARGET_NAME = FastlaneJenkins;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		11D112512D54842C00A1E873 /* Build configuration list for PBXProject "FastlaneJenkinsTest" */ = {
+		11AFCFB42D5492F100C32454 /* Build configuration list for PBXProject "FastlaneJenkins" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				11D112822D54842D00A1E873 /* Debug */,
-				11D112832D54842D00A1E873 /* Release */,
+				11AFCFE52D5492F200C32454 /* Debug */,
+				11AFCFE62D5492F200C32454 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		11D1127F2D54842D00A1E873 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsTest" */ = {
+		11AFCFE22D5492F200C32454 /* Build configuration list for PBXNativeTarget "FastlaneJenkins" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				11D112802D54842D00A1E873 /* Debug */,
-				11D112812D54842D00A1E873 /* Release */,
+				11AFCFE32D5492F200C32454 /* Debug */,
+				11AFCFE42D5492F200C32454 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		11D112842D54842D00A1E873 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsTestTests" */ = {
+		11AFCFE72D5492F200C32454 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				11D112852D54842D00A1E873 /* Debug */,
-				11D112862D54842D00A1E873 /* Release */,
+				11AFCFE82D5492F200C32454 /* Debug */,
+				11AFCFE92D5492F200C32454 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		11D112872D54842D00A1E873 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsTestUITests" */ = {
+		11AFCFEA2D5492F200C32454 /* Build configuration list for PBXNativeTarget "FastlaneJenkinsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				11D112882D54842D00A1E873 /* Debug */,
-				11D112892D54842D00A1E873 /* Release */,
+				11AFCFEB2D5492F200C32454 /* Debug */,
+				11AFCFEC2D5492F200C32454 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 11D1124E2D54842C00A1E873 /* Project object */;
+	rootObject = 11AFCFB12D5492F100C32454 /* Project object */;
 }
