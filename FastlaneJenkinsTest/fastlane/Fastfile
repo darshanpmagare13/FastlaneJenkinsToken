@@ -15,10 +15,8 @@
 
 default_platform(:ios)
 
-default_platform(:ios)
-
 platform :ios do
-  desc "Builds the iOS app"
+  desc "Builds the iOS app and exports IPA"
   lane :build_app do
     gym(                      
       workspace: "FastlaneJenkinsTest.xcworkspace",
@@ -26,10 +24,11 @@ platform :ios do
       configuration: "Release",
       clean: true,
       export_method: "app-store",
-      output_directory: "/Users/ft42/Documents/Demo Projects",  # ✅ Custom output path
-      output_name: "FastlaneJenkinsTest.ipa"  # ✅ Custom IPA file name
+      output_directory: "/Users/ft42/Documents/Demo Projects",  # ✅ Ensure this path is correct
+      output_name: "FastlaneJenkinsTest.ipa"  # ✅ The expected IPA filename
     )
   end
 end
+
 
 
